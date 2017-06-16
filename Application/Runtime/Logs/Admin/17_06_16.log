@@ -1,9 +1,0 @@
-[ 2017-06-16T23:31:20+08:00 ] 127.0.0.1 /Admin/Goods/ajaxUpload.html
-INFO: [ app_begin ] --START--
-INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
-INFO: [ action_begin ] --START--
-INFO: Run Admin\Behaviors\AuthBehavior [ RunTime:0.001257s ]
-INFO: [ action_begin ] --END-- [ RunTime:0.001576s ]
-NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\program\dodi\tp3\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
-
